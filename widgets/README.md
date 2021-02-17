@@ -1,4 +1,4 @@
-Wikipedia Search API React.js App (utilizes useEffect Hook)
+Wikipedia Search API React.js App (utilizes useEffect and useState Hooks)
 
 ## Available Scripts
 
