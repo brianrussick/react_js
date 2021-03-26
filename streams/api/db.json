@@ -1,3 +1,25 @@
 {
-    "streams": []
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "Stream",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Nav",
+      "description": "This stream is about refactoring",
+      "id": 7
+    },
+    {
+      "title": "Streaming Component ReUse Test",
+      "description": "Refactor components",
+      "userId": "109019723413403247307",
+      "id": 8
+    }
+  ]
 }
