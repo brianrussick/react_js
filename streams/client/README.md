@@ -1,4 +1,4 @@
-Streaming JSON API React.js App
+Streaming JSON API React.js & Redux App
 
 ## Available Scripts
 
