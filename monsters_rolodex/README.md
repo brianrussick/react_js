@@ -1,4 +1,4 @@
-React.js Monsters Rolodex Search App - RoboHash Web Service & JSON Placeholder
+React.js Monsters Rolodex Search Web App - RoboHash Web Service & JSON Placeholder
 
 ## Available Scripts
 
