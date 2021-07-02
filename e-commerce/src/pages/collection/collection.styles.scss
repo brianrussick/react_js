@@ -8,12 +8,12 @@
     }
   
     .items {
-      display: grid;
+      display: flex;
       grid-template-columns: 1fr 1fr 1fr 1fr;
       grid-gap: 10px;
   
       & .collection-item {
-        width: 70%;
+        width: 55%;
         margin-bottom: 30px;
       }
     }
