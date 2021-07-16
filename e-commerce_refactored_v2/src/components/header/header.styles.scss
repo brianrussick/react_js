@@ -4,11 +4,13 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 25px;
-  
+    color: darkblue;
+
     .logo-container {
       height: 100%;
       width: 70px;
       padding: 25px;
+      color: darkblue;
     }
   
     .options {
@@ -17,10 +19,12 @@
       display: flex;
       align-items: center;
       justify-content: flex-end;
+      color: darkblue;
   
       .option {
         padding: 10px 15px;
         cursor: pointer;
+        color: darkblue;
       }
     }
   }
