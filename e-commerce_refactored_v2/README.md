@@ -1,4 +1,4 @@
-React.js E-Commerce SPA - Full-Stack Web App
+React.js E-Commerce SPA - Full-Stack Web App with Redux & Stripe Payments
 
 ## Available Scripts
 
