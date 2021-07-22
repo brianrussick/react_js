@@ -8,14 +8,17 @@ import './index.css';
 import App from './App';
 
 import { store, persistor } from './redux/store';
+import CartProvider from './providers/cart/cart.provider';
 
 ReactDOM.render(
+<CartProvider>
 <Provider store={store}>
   <BrowserRouter>  
   <PersistGate persistor={persistor}>
     <App />
     </PersistGate>
   </BrowserRouter>
-</Provider>,
+</Provider>
+</CartProvider>,
 document.getElementById('root')
 );
