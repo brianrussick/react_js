@@ -4,13 +4,13 @@
     display: flex;
     justify-content: space-between;
     margin-bottom: 25px;
-    color: darkslategray;
+    color: rgb(72, 54, 139);
 
     .logo-container {
       height: 100%;
       width: 70px;
       padding: 25px;
-      color: darkslategray;
+      color: rgb(72, 54, 139);
     }
   
     .options {
@@ -19,12 +19,12 @@
       display: flex;
       align-items: center;
       justify-content: flex-end;
-      color: darkslategray;
+      color: rgb(72, 54, 139);
   
       .option {
         padding: 10px 15px;
         cursor: pointer;
-        color: darkslategray;
+        color: rgb(72, 54, 139);
       }
     }
   }
