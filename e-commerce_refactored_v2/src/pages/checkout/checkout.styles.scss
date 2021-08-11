@@ -11,7 +11,7 @@
       padding: 10px 0;
       display: flex;
       justify-content: space-between;
-      border-bottom: 1px solid darkgrey;
+      border-bottom: 2px dotted blue;
   
       .header-block {
         text-transform: capitalize;
@@ -38,7 +38,7 @@
       text-align: center;
       margin-top: 40px;
       font-size: 24px;
-      color: red;
+      color: rgb(236, 115, 115);
     }
   }
   
