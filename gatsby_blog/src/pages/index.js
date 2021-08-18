@@ -1,20 +1,21 @@
 import * as React from "react"
 import { graphql, Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-export default ({ data }) => (
+export default ({ data }) => {
+  console.log(data)
+  return (
   <Layout>
     <Seo title="Home" />
     <div>
       <h1>Brian's Thoughts</h1>
+      <h4>{data.allMarkdownRemark.totalCount}</h4>
     </div>
   </Layout>
-)
-
-export default IndexPage
+  )
+}
 
 export const query = graphql`
   query {
