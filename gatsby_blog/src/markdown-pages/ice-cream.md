@@ -1,5 +1,5 @@
 ---
-title: "Ice Cream is Amazing!
+title: "Ice Cream is Amazing!"
 date: "2017-08-10"
 ---
 
