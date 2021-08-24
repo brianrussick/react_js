@@ -1,5 +1,5 @@
 ---
-title: 'My First AMA'
+title: 'Presenting My First AMA!'
 date: '2017-08-21'
 description: 'My first AMA :)'
 ---
