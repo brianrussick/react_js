@@ -7,5 +7,4 @@ date: "2017-07-10"
 
 Test 2! 
 
-sdkjfnsdlkfndsflkdsnfsdklfndsklfnsdf
-sdfkjsdfnsjddfnaldksfndlkfnsdlkfnsdl
+This is a test Blog post! Yeaaaaaaaaaaaaaaaaaaa : )
