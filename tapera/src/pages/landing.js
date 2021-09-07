@@ -33,7 +33,7 @@ export default function Landing() {
             
 
             <div class="flex float-right lg:flex lg:float-right">
-            <img class="h-84 lg:absolute lg:left-0 lg:h-full lg:w-full ..." alt ='' id='phone' src={Phone} />
+            <img class="h-52 lg:absolute lg:left-0 lg:h-full lg:w-full ..." alt ='' id='phone' src={Phone} />
             </div>
 
             <div class="lg:space-y-5 lg:mt-96 lg:pt-44 bg-red-500 ...">
