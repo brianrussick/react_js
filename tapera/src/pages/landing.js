@@ -37,7 +37,7 @@ export default function Landing() {
             </div>
 
             <div class="lg:space-y-5 lg:mt-96 lg:pt-10 bg-red-500 ...">
-            <div><p class="ml-2 mb-4 text-5xl text-white underline font-heading lg:ml-24 ...">What we do</p></div>  
+            <div><p class="ml-2 mb-4 text-5xl text-white underline font-heading  text-center lg:text-left lg:ml-24 ...">What we do</p></div>  
 
             <section class="lg:container lg:px-96 lg:ml-44">
       
@@ -46,38 +46,57 @@ export default function Landing() {
 
 
     <div class="lg:grid">
-    <div class="p-4 bg-white rounded-lg">
+    <div class="p-4 bg-white lg:rounded-lg">
         
-         <div id="body" class="flex flex-col ml-5">
+         <div class="flex flex-col ml-5">
             <div class=" bg-gray-100 lg:flex lg:items-center">
     </div>
-            <p id="text" class="text-2xl text-gray-800 mt-2">
+            <p class="text-2xl text-gray-800 mt-2">
             Tapera's unique method of processing transactions in real time on the
             Algorand network will enable equal access to all, afford anonymity, and facilitate the
             transfer of assets in a revolutionary way.
             </p>
             
 
-            <p id="text" class="text-2xl text-gray-800 mt-10">
+            <p class="text-2xl text-gray-800 mt-10">
             Our users don't need to have a bank account, smart phone, or even an app to participate
             in our network just as these aren't prerequisites for using traditional cash.
             </p>
 
-            <div class="flex mt-5">
+            <div class="flex mt-10">
             </div>
          </div>
     </div>
     </div>
 </section>
           
-            <div class="space-y-4 pb-10 pt-10 bg-white ...">
-            <div><p id="about" class="ml-3 text-3xl text-black text-left lg:ml-0 lg:text-center font-heading opacity-50 ...">About Us</p></div>
+            <div class="space-y-2 pb-5 lg:pt-5 bg-white ...">
+            <div><p id="about" class="ml-3 text-3xl text-black lg:ml-0 text-center font-heading opacity-50 underline ...">About Us</p></div>
 
-            <div class="ml-2 divide-y-0 space-y-0 lg:space-y-2 lg:ml-8 ..."> 
-            <div><p class="text-5xl text-red-500 text-left lg:text-center font-opensans pb-7 font-bold ...">Our Mission</p></div>
-            <div><p class="text-lg lg:text-2xl text-black font-opensans text-left lg:text-center ...">Our mission is to bring modern banking services to those that otherwise wouldn't have access to them;</p></div> 
-            <div><p class="text-xl lg:text-2xl text-black font-opensans text-left lg:text-center ...">first and foremost by processing small transactions at no cost to our users.</p></div>
-            
+            <div class="ml-2 divide-y-0 space-y-0 lg:ml-8 ..."> 
+            <div><p class="text-5xl text-red-500 font-opensans pb-5 text-center font-bold ...">Our Mission</p></div>
+
+            <section class="lg:container lg:px-96 lg:ml-44">
+      
+
+
+
+
+    <div class="lg:grid">
+    <div class="p-2 bg-white rounded-lg">
+        
+         <div class="flex flex-col ml-5">
+            <div class=" bg-gray-100 lg:flex lg:items-center">
+    </div>
+            <p class="text-2xl text-gray-800">
+            Our mission is to bring modern banking services to those that otherwise wouldn't have access to them;
+            first and foremost by processing small transactions at no cost to our users.
+            </p>
+         </div>
+    </div>
+    </div>
+</section>
+  
         </div>
         </div>
         </div>
