@@ -12,17 +12,17 @@ export default function Landing() {
 
           <div class="absolute top-72 pt-60 lg:pt-0 right-8 w-full flex-1 lg:divide-y-0 mt-32 lg:mt-44 ml-0 pl-10 space-y-0.5 font-opensans lg:absolute lg:left-0 lg:top-10 ...">
 
-          <div><p class="lg:mt-0 text-4xl text-blue-600 lg:text-6xl lg:text-blue-600 mb-10 lg:ml-72 ...">The Future of Cash</p></div> 
+          <div><p class="lg:mt-0 text-4xl text-blue-600 lg:text-6xl lg:text-blue-600 mb-10 lg:ml-20 ...">The Future of Cash</p></div> 
 
-          <div><p class="text-4xl mb-10 lg:ml-72 ...">Money like you’ve never had before</p></div>
+          <div><p class="text-4xl mb-10 lg:ml-20 ...">Money like you’ve never had before</p></div>
 
-            <div><p class="text-2xl opacity-60 lg:ml-72 ...">Send money to anyone,</p></div>  
-            <div><p class="text-2xl opacity-60 mb-10 lg:ml-72 ...">spend money anywhere.</p></div>  
+            <div><p class="text-2xl opacity-60 lg:ml-20 ...">Send money to anyone,</p></div>  
+            <div><p class="text-2xl opacity-60 mb-10 lg:ml-20 ...">spend money anywhere.</p></div>  
 
             <div>
             <a href="#about" class="text-sm px-10 py-4 leading-none border rounded
                         text-white bg-blue-500 mr-0.5 border-black
-                        hover:bg-black lg:mt-0 font-opensans lg:ml-72">Learn More</a>
+                        hover:bg-black lg:mt-0 font-opensans lg:ml-20">Learn More</a>
             </div>
 
           </div>    
