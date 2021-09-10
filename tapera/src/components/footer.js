@@ -10,7 +10,7 @@ import {
 
 export default function Footer() {
   return (
-    <div class="ml-14 lg:flex lg:justify-center lg:pl-0 lg:ml-44 space-y-56 mt-7 mb-7 ...">
+    <div class="ml-14 lg:flex md:flex md:justify-center md:mr-10 lg:mr-0 lg:justify-center lg:pl-0 lg:ml-44 space-y-56 mt-7 mb-7 ...">
 
   {/*<svg xmlns="http://www.w3.org/2000/svg" width="500px" height="300px" viewBox="-600 500 2000 300" >
   <path d="M0 0v408h1404V0H0z" fill="#fd1e28"/>
@@ -43,7 +43,7 @@ export default function Footer() {
         <FontAwesomeIcon icon={faDiscord} size="4x" />
       </button>
       </div>
-      <p class="flex ml-0 lg:ml-0 lg:justify-center mr-44 font-opensans text-x1 font-bold ...">Boston, MA</p>
+      <p class="flex ml-0 justify-center lg:ml-0 md:justify-center lg:justify-center md:mr-0 lg:mr-44 mr-12 font-opensans text-x1 font-bold ...">Boston, MA</p>
       <p class="flex lg:mr-44 font-opensans text-x1 font-bold ...">contact us: rylie.tapera@outlook.com</p>
     </div>
     </div>

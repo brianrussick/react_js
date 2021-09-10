@@ -23,23 +23,23 @@ const Header = () => (
   </div>
   <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto text-left sm:text-center">
     <div class="text-2xl text-white lg:flex-grow font-opensans">
-      <a href="/mission" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-700 mr-4 text-center">
+      <a href="/mission" class="block mt-4 ml-0 md:ml-2 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:ml-0 lg:mr-4 text-center">
       <p>Mission</p>
       </a>
-      <a href="/investors" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-700 mr-4 mx-5 text-center">
+      <a href="/investors" class="block mt-4 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:mr-4 mx-5 text-center">
       <p>For Investors</p>
       </a>
-      <a href="/our-tech" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-700 mr-4 mx-5 text-center">
+      <a href="/our-tech" class="block mt-4 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:mr-4 mx-5 text-center">
       <p>Projects</p>
       </a>
-      <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 hover:text-gray-700 mr-4 mx-5 text-center">
+      <a href="/about" class="block mt-4 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:mr-4 mx-5 text-center">
       <p>Team</p>
       </a>
     </div>
     <div>
       <button href="#" class="inline-block text-sm px-16 py-2 leading-none border rounded
                         text-white bg-blue-500 mr-0.5 border-black 
-                        hover:bg-black mt-4 mb-4 lg:mb-0 lg:mt-0 font-opensans ml-28 lg:ml-0">Login</button>
+                        hover:bg-black mt-4 mb-4 md:mr-20 lg:mr-0 lg:mb-0 lg:mt-0 font-opensans ml-28 lg:ml-0">Login</button>
     </div>
   </div>
 </nav>
