@@ -10,7 +10,7 @@ export default function About() {
   <div class="grid gap-4 lg:grid lg:gap-10 lg:mb-8 lg:grid-cols-1">
   {/* Card 1*/}
     <div class="lg:flex lg:items-start lg:p-4 bg-white border-2 border-gray-200 rounded-lg shadow-sm dark:bg-gray-800">
-        <img alt="owner" class="w-96 h-72 rounded-md border-2 border-gray-300" src={Rylie} />
+        <img alt="owner" class="w-96 h-72 rounded-md border-2 border-gray-300 object-cover" src={Rylie} />
          <div id="body" class="flex flex-col ml-5">
             <h4 id="name" class="text-5xl font-semibold mb-2 text-blue-500">Rylie Rueda</h4>
             <h4 id="subheading" class="text-3xl font-semibold mb-2">Founder & CEO - rylie.tapera@outlook.com</h4>
@@ -25,7 +25,7 @@ export default function About() {
     </div>
     {/* Card 2*/}
     <div class="lg:flex lg:items-start p-4 bg-white border-2 border-gray-200 rounded-lg shadow-sm dark:bg-gray-800">
-        <img alt="employee" class="w-96 h-72 rounded-md border-2 border-gray-300" src={David} />
+        <img alt="employee" class="w-96 h-72 rounded-md border-2 border-gray-300 object-cover" src={David} />
          <div id="body" class="flex flex-col ml-5">
             <h4 id="name" class="text-5xl font-semibold mb-2 text-blue-500">David McCabe</h4>
             <h4 id="subheading" class="text-3xl font-semibold mb-2">Technical Lead</h4>
@@ -39,7 +39,7 @@ export default function About() {
     </div>
     {/* Card 3*/}
     <div class="lg:flex lg:items-start p-4 bg-white border-2 border-gray-200 rounded-lg shadow-sm dark:bg-gray-800">
-        <img alt="employee" class="w-96 h-72 rounded-md border-2 border-gray-300" src={Ryan} />
+        <img alt="employee" class="w-96 h-72 rounded-md border-2 border-gray-300 object-cover" src={Ryan} />
          <div id="body" class="flex flex-col ml-5">
             <h4 id="name" class="text-5xl font-semibold mb-2 text-blue-500">Ryan Soscia</h4>
             <h4 id="subheading" class="text-3xl font-semibold mb-2">Advisor & Board Member</h4>
@@ -52,7 +52,7 @@ export default function About() {
     </div>
     {/* Card 4*/}
     <div class="lg:flex lg:items-start p-4 bg-white border-2 border-gray-200 rounded-lg shadow-sm dark:bg-gray-800">
-        <img alt="employee" class="w-96 h-72 rounded-md border-2 border-gray-300" src={Ashkan} />
+        <img alt="employee" class="w-96 h-72 rounded-md border-2 border-gray-300 object-cover" src={Ashkan} />
          <div id="body" class="flex flex-col ml-5">
             <h4 id="name" class="text-5xl font-semibold mb-2 text-blue-500">Ashkan Moghadassi</h4>
             <h4 id="subheading" class="text-3xl font-semibold mb-2">Software Developer</h4>
