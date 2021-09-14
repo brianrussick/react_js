@@ -5,9 +5,9 @@ export default function Landing() {
 
     return (
         <div class="bg-white ...">
-            <div class="w-full flex mb-80 pb-20 lg:w-full lg:flex lg:mb-96 lg:pb-96 ...">
-            <div class="lg:flex-1 lg:h-16 lg:mb-48">
-            <img class="mt-0 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/3 h-84 lg:h-full lg:object-cover shadow-2xl rounded-lg lg:mt-24 pt-1 ..." alt ='' id='hero' src={HeroImg} />
+            <div class="w-full flex mb-80 pb-20 lg:w-full 2xl:w-full lg:flex 2xl:flex lg:mb-96 2xl:mb-96 lg:pb-56 2xl:pb-96 ...">
+            <div class="lg:flex-1 2xl:flex-1 lg:h-16 2xl:h-16 lg:mb-0 2xl:mb-48">
+            <img class="mt-0 lg:absolute 2xl:absolute lg:inset-y-0 2xl:inset-y-0 lg:right-0 2xl:right-0 lg:w-1/3 2xl:w-1/3 h-84 lg:h-full 2xl:h-full lg:object-cover 2xl:object-cover shadow-2xl rounded-lg lg:mt-24 2xl:mt-24 pt-1 ..." alt ='' id='hero' src={HeroImg} />
         </div>
 
           <div class="absolute top-72 pt-60 lg:pt-0 right-8 w-full flex-1 lg:divide-y-0 mt-32 lg:mt-44 ml-0 pl-10 space-y-0.5 font-opensans lg:absolute lg:left-0 lg:top-10 ...">
@@ -76,7 +76,7 @@ export default function Landing() {
             <div class="ml-2 divide-y-0 space-y-0 lg:ml-8 ..."> 
             <div><p class="text-5xl text-red-500 font-opensans pb-5 text-center font-bold ...">Our Mission</p></div>
 
-            <section class="lg:container lg:px-96 lg:ml-44">
+            <section class=" 2xl:container lg:px-0 2xl:px-96 lg:ml-20 lg:mr-32 2xl:mr-0 2xl:ml-44 ...">
       
 
 

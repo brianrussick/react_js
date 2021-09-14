@@ -7,7 +7,7 @@ const Header = () => (
                 <center>
                 <div className='header'>
  
-  <nav class="flex items-center justify-between flex-wrap sm:w-full lg:fixed w-full z-10 pin-t bg-red-500 ...">
+  <nav class="flex items-center justify-between flex-wrap sm:w-full 2xl:fixed w-full z-10 pin-t bg-red-500 ...">
   <div class="flex items-center flex-shrink-0 text-white">
   <div class="pointer-events-auto ...">
   <a href='/'>
