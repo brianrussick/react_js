@@ -10,7 +10,7 @@ export default function Tech() {
             <div class=" bg-gray-100 lg:flex lg:items-center">
   
     <div class="lg:h-20 lg:ml-16 lg:flex lg:justify-center lg:items-center lg:mt-4 lg:mb-4">
-      <div class="space-y-3 lg:space-x-96 lg:space-y-0">
+      <div class="space-y-3 lg:space-x-64 2xl:space-x-96 lg:space-y-0 2xl:space-y-0 ...">
         <a href="#gard" class="py-3 px-32 lg:px-6 text-white text-2xl rounded-lg bg-blue-500 shadow-lg block md:inline-block">GARD</a>
         <a href="#pipeline" class="py-3 px-32 lg:px-6 text-white text-2xl rounded-lg bg-green-400 shadow-lg block md:inline-block">Pipeline</a>
         <a href="#tba" class="py-3 px-8 lg:px-6 text-white text-2xl rounded-lg bg-purple-600 shadow-lg block md:inline-block">Soon to be Announced</a>
