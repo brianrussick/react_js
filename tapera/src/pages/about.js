@@ -6,7 +6,7 @@ import Ashkan from './../images/Ashkan.jpg';
 export default function About() {
 
     return (
-      <section class="lg:container lg:px-6 lg:py-4 lg:mx-auto lg:pt-10 2xl:pt-40">
+      <section class="lg:container lg:px-6 lg:py-4 lg:mx-auto lg:pt-10 2xl:pt-32">
   <div class="grid gap-4 lg:grid lg:gap-10 lg:mb-8 lg:grid-cols-1">
   {/* Card 1*/}
     <div class="lg:flex lg:items-start lg:p-4 bg-white border-2 border-gray-200 rounded-lg shadow-sm dark:bg-gray-800">
