@@ -1,7 +1,7 @@
 export default function Tech() {
 
     return (
-      <section class="lg:container lg:px-6 lg:mx-auto lg:pt-32">
+      <section class="2xl:container lg:px-6 2xl:mx-auto lg:pt-10 2xl:pt-32">
     <div class="lg:grid">
     <div class="p-4 bg-white rounded-lg">
         

@@ -1,7 +1,7 @@
 export default function Investors() {
 
     return (
-      <section class="lg:container lg:px-6 lg:mx-auto lg:pt-32">
+      <section class="lg:container lg:px-6 lg:mx-auto lg:pt-10 2xl:pt-32">
       
 
 
