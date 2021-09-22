@@ -14,10 +14,10 @@ export default function Landing() {
 
           <div><p class="md:mt-64 lg:mt-0 text-4xl text-blue-600 lg:text-6xl lg:text-blue-600 mb-10 lg:ml-20 ...">The Future of Cash</p></div> 
 
-          <div><p class="text-4xl mb-10 lg:ml-20 ...">Money like you’ve never had before</p></div>
+          <div><p class="text-4xl mb-10 lg:ml-20 ...">DeFi for the Rest of Us</p></div>
 
-            <div><p class="text-2xl opacity-60 lg:ml-20 ...">Send money to anyone,</p></div>  
-            <div><p class="text-2xl opacity-60 mb-10 lg:ml-20 ...">spend money anywhere.</p></div>  
+            <div><p class="text-2xl opacity-60 lg:ml-20 ...">Decentralized money built for the borderless economy.</p></div>  
+            <div><p class="text-2xl opacity-60 mb-10 lg:ml-20 ...">Tools to leverage your capital and gain spend.</p></div>  
 
             <div>
             <a href="#about" class="text-sm px-10 py-4 leading-none border rounded
@@ -32,12 +32,12 @@ export default function Landing() {
             
             
 
-            <div class="flex float-right lg:flex lg:float-right">
+            <div class="flex float-right lg:flex lg:float-right mt-10 lg:mt-0">
             <img class="h-52 lg:absolute lg:left-0 lg:h-72 lg:w-84 lg:mt-20 ..." alt ='' id='phone' src={Phone} />
             </div>
 
             <div class="lg:space-y-5 lg:mt-96 lg:pt-10 bg-red-500 ...">
-            <div><p class="ml-2 mb-4 text-5xl text-white underline font-heading text-center lg:text-left lg:ml-24 ...">What we do</p></div>  
+            <div><p class="ml-2 mb-4 text-5xl text-white underline font-heading text-center lg:text-left lg:ml-24 ...">Our Vision</p></div>  
 
             <section class="lg:container lg:px-96 lg:ml-44">
       
@@ -52,15 +52,14 @@ export default function Landing() {
             <div class=" bg-gray-100 lg:flex lg:items-center">
     </div>
             <p class="text-2xl text-gray-800 mt-2">
-            Tapera's unique method of processing transactions in real time on the
-            Algorand network will enable equal access to all, afford anonymity, and facilitate the
-            transfer of assets in a revolutionary way.
+            Our vision is to create an ecosystem where we process transactions in real time on the Algorand network
+            which will enable equal access to all, afford anonymity, and facilitate the transfer of assets in a revolutionary way.
             </p>
             
 
             <p class="text-2xl text-gray-800 mt-10">
-            Our users don't need to have a bank account, smart phone, or even an app to participate
-            in our network just as these aren't prerequisites for using traditional cash.
+            Our first project, GARD, has given the world a truly decentralized crypto that always keeps the same value, without the
+            transaction fees. Our users don't need a bank account, smart phone, or even an app to transfer their money. 
             </p>
 
             <div class="flex mt-10">
@@ -70,34 +69,12 @@ export default function Landing() {
     </div>
 </section>
           
-            <div class="space-y-2 pb-5 lg:pt-5 bg-white ...">
-            <div><p id="about" class="ml-3 text-3xl text-black lg:ml-0 text-center font-heading opacity-50 underline ...">About Us</p></div>
-
+          
             <div class="ml-2 divide-y-0 space-y-0 lg:ml-8 ..."> 
             <div><p class="text-5xl text-red-500 font-opensans pb-5 text-center font-bold ...">Our Mission</p></div>
 
-            <section class=" 2xl:container lg:px-0 2xl:px-96 lg:ml-20 lg:mr-32 2xl:mr-0 2xl:ml-44 ...">
-      
-
-
-
-
-    <div class="lg:grid">
-    <div class="p-2 bg-white rounded-lg">
-        
-         <div class="flex flex-col ml-5">
-            <div class=" bg-gray-100 lg:flex lg:items-center">
-    </div>
-            <p class="text-2xl md:text-lg lg:text-2xl md:ml-40 lg:ml-0 md:mr-44 lg:mr-0 text-gray-800">
-            Our mission is to bring modern banking services to those that otherwise wouldn't have access to them;
-            first and foremost by processing small transactions at no cost to our users.
-            </p>
-         </div>
-    </div>
-    </div>
-</section>
+           
   
-        </div>
         </div>
         </div>
         </div>
