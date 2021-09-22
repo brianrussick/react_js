@@ -20,7 +20,7 @@ export default function Landing() {
             <div><p class="text-2xl opacity-60 mb-10 lg:ml-20 ...">Tools to leverage your capital and gain spend.</p></div>  
 
             <div>
-            <a href="#about" class="text-sm px-10 py-4 leading-none border rounded
+            <a href="#vision" class="text-sm px-10 py-4 leading-none border rounded
                         text-white bg-blue-500 mr-0.5 border-black
                         hover:bg-black lg:mt-0 font-opensans lg:ml-20">Learn More</a>
             </div>
@@ -37,7 +37,7 @@ export default function Landing() {
             </div>
 
             <div class="lg:space-y-5 lg:mt-96 lg:pt-10 bg-red-500 ...">
-            <div><p class="ml-2 mb-4 text-5xl text-white underline font-heading text-center lg:text-left lg:ml-24 ...">Our Vision</p></div>  
+            <div><p id="vision" class="ml-2 mb-4 text-5xl text-white underline font-heading text-center lg:text-left lg:ml-24 ...">Our Vision</p></div>  
 
             <section class="lg:container lg:px-96 lg:ml-44">
       
