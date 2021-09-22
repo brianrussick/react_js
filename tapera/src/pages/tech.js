@@ -20,26 +20,59 @@ export default function Tech() {
     </div>
             <h4 id="gard" class="text-5xl text-blue-500 font-semibold mb-2 mt-9">GARD</h4>
             <h4 id="question" class="text-3xl font-semibold mb-2 mt-9">What is GARD?</h4>
-            <p id="text" class="text-2xl text-gray-800 mt-2">GARD is the first truly decentralized dollar. GARD was inspired by
-            prominent DeFi projects such as Maker, Staticoin, and TerraLuna, and then built on the superior Algorand blockchain with
-            logical improvements along the way. GARD is an algorithmic stable token that is backed by Algorand's blockchain and uses
-            Algos as collateral. We incentivize reserve providers by offering them governance rewards and liquidity (GARD), a combination
-            that was previously impossible. By doing this we have effectively created a line of credit that pays our users. We incentivize
-            use of GARD because of the almost zero transaction fees, decentralization, and stability.</p>
-            
+            <p id="text" class="text-2xl text-gray-800 mt-2">
+            GARD is an algorithmic stable token backed by a smart contract structure that is analogous
+            to a collateralized debt position (CDP). This smart contract is similar to a CDP in that it
+            issues a line of credit from collateral; however, it is revolutionary because this collateral
+            will actually be put into Algorand’s Governance system, which earns network rewards risk-free
+            by processing transactions.</p>
+
             <h4 id="question2" class="text-3xl font-semibold mb-2 mt-9">Why is GARD needed?</h4>
-            <p id="text" class="text-2xl text-gray-800 mt-2">The need for stabletokens has been demonstrated by the astronomical rise in
-            the overall stabletoken market cap to over $100 billion. For those that desire stability and the benefits of blockchain it's
-            essential that there are tokens that fulfill their needs, however, traditional stabletokens maintain their value by having collateral
-            in the form of highly regulated financial instruments which is counterproductive to DeFi. While there have been improvements since the
-            first stabletokens most have been built on blockchains that are inferior to Algorand, they have worse tokenomics, and none are truly
-            decentralized as a product of both their infrastructure and tokenomics. GARD solves these problems.</p>
+            <p id="text" class="text-2xl text-gray-800 mt-2">
+            We have created the first truly decentralized dollar. What separates our stablecoin is:
+            Our choice of blockchain, our proprietary code/how we plan to govern it, and our source of liquidity - Algos.</p>
+
+            <p id="text" class="text-2xl text-gray-800 mt-6">
+            Our choice of blockchain is important because while many other blockchains have been rushed to
+            market with enormous VC budgets for promotion, the logical choice for longterm crypto solutions
+            is Algorand. It is the only major blockchain that has been developed scientifically and it was
+            made by the leading mind in cryptography, Silvio Micali, an MIT professor.</p>
             
-            <h4 id="question3" class="text-3xl font-semibold mb-2 mt-9">How does GARD fit into our mission?</h4>
-            <p id="text" class="text-2xl text-gray-800 mt-2">GARD will enable Tapera and other users to cut through red tape and gain access to
-            life changing DeFi resources. Whether one is a liquidity provider, or simply a user they will benefit from using GARD thanks to the
-            almost non-existent fees charged by Algorand and the net-zero developer fees we have implemented into the protocol. This new decentralized
-            dollar will increase access for all.</p>
+            <p id="text" class="text-2xl text-gray-800 mt-6">
+            Another feature of GARD is the unique tokenomics structure we have created. We incentivize reserve
+            providers by paying them network rewards and giving them liquidity from their locked tokens. We
+            incentivize use of GARD by charging nearly zero transaction fees and maintaining its peg.</p>
+
+            <p id="text" class="text-2xl text-gray-800 mt-6">
+            Sourcing liquidity directly from Algos, rather than creating our own separate store of value or
+            balancing token, solves many issues. First, Algorand is highly liquid, which provides more protection
+            from market manipulation than a token of our own creation. Second, Algorand has utility on its own and
+            thus has intrinsic value unlike tokens on other blockchains. Finally, because the system uses arbitrage
+            and market selling, there is no need for a balancing token or seigniorage process,which prevents the
+            occurrence of a black swan event.</p>
+
+            <p id="text" class="text-2xl text-gray-800 mt-6">
+            By improving ideas from the few algorithmic stabletoken projects such as Maker ($7 billion USD issued),
+            Staticoin (no traction), and TerraLuna ($10 billion USD issued), and then building on the superior Algorand
+            blockchain, we have created the logical solution for those seeking the most utility and least risk from their capital.</p>
+
+
+            
+            
+            <h4 id="question3" class="text-3xl font-semibold mb-2 mt-9">Who is your target market?</h4>
+            <p id="text" class="text-2xl text-gray-800 mt-2">
+            Our initial market will be current Algorand holders, stakers, and DeFi participants. The Algorand market capitalization is
+            more than $10 billion and ~50% of tokens are currently online and participate in validating transactions (earning the fees
+            as a result). There also are almost 50,000 Algorand accounts that hold at least 1,000 tokens; we anticipate many of these 
+            account holders will desire to participate in the governance update. And, there is a rapidly growing DeFi community within
+            Algorand as the blockchain’s utility has begun to be more fully understood. One DeFi project on Algorand has already amassed
+            $125 million in staked tokens and they have only existed a year.</p>
+
+            <p id="text" class="text-2xl text-gray-800 mt-6">
+            Once we have gained some traction, we imagine our market will grow substantially and create a positive network effect for the
+            overall Algorand community. The overall stable token market capitalization is over $100 billion and there are tens of billions
+            in algorithmic tokens primarily composed of Maker’s Dai and Luna’s Terra. We are in an exciting overall niche as crypto, stable
+            tokens, and DeFi are all receiving significant interest and there is a massive community looking for new projects to adopt.</p>
 
             <h4 id="question4" class="text-3xl font-semibold mb-2 mt-9">What milestones have been realized by GARD?</h4>
             <p id="text" class="text-2xl text-gray-800 mt-2">GARD is currently in its alpha stage and is live on the Algorand testnet with proprietary

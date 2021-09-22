@@ -22,8 +22,7 @@ export default function Mission() {
               
           
               <p id="text" class="text-2xl lg:mr-96 text-gray-800 mt-2">
-              Our mission is to bring modern banking services to those that otherwise wouldn't have access to them;
-              first and foremost by processing small transactions at no cost to our users.
+              Revolutionize the crypto industry and create modern banking services for everyone.
               </p>
               <div class="flex mt-20">
               </div>
