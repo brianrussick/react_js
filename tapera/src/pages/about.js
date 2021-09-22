@@ -1,7 +1,6 @@
 import Rylie from './../images/Rylie.jpg';
 import David from './../images/David.jpg';
 import Ryan from './../images/Ryan_Soscia.jpg';
-import Ashkan from './../images/Ashkan.jpg';
 
 export default function About() {
 
