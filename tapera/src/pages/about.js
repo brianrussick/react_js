@@ -50,18 +50,7 @@ export default function About() {
             </div>
          </div>
     </div>
-    {/* Card 4*/}
-    <div class="lg:flex lg:items-start p-4 bg-white border-2 border-gray-200 rounded-lg shadow-sm dark:bg-gray-800">
-        <img alt="employee" class="w-96 h-72 rounded-md border-2 border-gray-300 object-cover" src={Ashkan} />
-         <div id="body" class="flex flex-col ml-5">
-            <h4 id="name" class="text-5xl font-semibold mb-2 text-blue-500">Ashkan Moghadassi</h4>
-            <h4 id="subheading" class="text-3xl font-semibold mb-2">Software Developer</h4>
-            <p id="job" class="text-2xl text-gray-800 mt-2">Ashkan is a software engineer working on apps integrated with the Algorand blockchain. 
-            He is currently leading research and development on our innovative crypto wallet hardware.</p>
-            <div class="flex lg:mt-5">
-            </div>
-         </div>
-    </div>
+   
   </div>
 </section>
     );

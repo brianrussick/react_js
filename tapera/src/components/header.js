@@ -26,7 +26,7 @@ const Header = () => (
       <a href="/mission" class="block mt-4 ml-0 md:ml-2 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:ml-0 lg:mr-4 text-center">
       <p>Mission</p>
       </a>
-      <a href="/investors" class="block mt-4 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:mr-4 mx-5 text-center">
+      <a href="/our-tech" class="block mt-4 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:mr-4 mx-5 text-center">
       <p>For Investors</p>
       </a>
       <a href="/our-tech" class="block mt-4 md:mr-0 lg:inline-block lg:mt-0 hover:text-gray-700 lg:mr-4 mx-5 text-center">
