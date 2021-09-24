@@ -1,5 +1,6 @@
 {
   "name": "tapera",
+  "homepage": "http://tapera.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
