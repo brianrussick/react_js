@@ -5,7 +5,4 @@ date: "2017-05-01"
 
 ### Test #4.
 
-Test4Test4Test4Test4Test4Test4
-Test4Test4Test4Test4Test4Test4Test4
-Test4Test4Test4Test4Test4Test4Test4Test4
-Test4Test4Test4Test4Test4Test4Test4Test4Test4
+Test4Test4Test4Test4
