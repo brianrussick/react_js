@@ -30,7 +30,7 @@ export default function About() {
             <h4 id="subheading" class="text-3xl font-semibold mb-2">Technical Lead</h4>
             <p id="job" class="text-2xl text-gray-800 mt-2">David is an experienced quantitative systems developer with a love for coding. 
             He is currently leading development on the GARD project. His previous roles provided him with large scale data processing experience.
-            David also has  an academic background in CS, Math, and Finance. These experiences combined enabled him to easily transition to crypto
+            David also has  an academic background in CS, Math, and Finance. These experiences enabled him to easily transition to crypto
             and build innovative dApps on Algorand.</p>
             <div class="flex lg:mt-5">
             </div>
