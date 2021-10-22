@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Next JS - Networking Web App ##
+## Next JS - SPA Networking Events Web App ##
 
 First, run the development server:
 
