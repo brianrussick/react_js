@@ -4,6 +4,9 @@ import PostHeader from "./post-header";
 import classes from './post-content.module.css';
 import Image from 'next/image';
 
+import { Prism as SyntaxHighlighter } from 'react-syntax-highlighter';
+import { atomDark } from 'react-syntax-highlighter/dist/cjs/styles/prism';
+
 function PostContent(props) {
     const { post } = props;
 
@@ -22,7 +25,12 @@ function PostContent(props) {
                 </div>
             }
             return <p>{paragraph.children}</p>;
-        }
+        },
+        code(code) {
+            const { language, value } = code;
+            // eslint-disable-next-line react/no-children-prop
+            return <SyntaxHighlighter language={language} children={value} style={atomDark} />
+            }
     };
 
     return (
